@@ -1,0 +1,7 @@
+<Solution>
+    <Folder Name="/src/">
+    </Folder>
+    <Folder Name="/src/Write/">
+        <Project Path="src/Write/SabakaWrite/SabakaWrite.csproj" />
+    </Folder>
+</Solution> 
